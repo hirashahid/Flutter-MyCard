@@ -1,16 +1,31 @@
-# flutter_my_card
+<h1 align="center">Flutter-MyCard</h1>
+<a href="#">
+  <div align="center" >
+    <img src="ss.png" width='400' height = '500'/>
+  </div>
+</a>
 
-A new Flutter project.
+## What I have learnt:
+- [x] I have used built-in widgets such as ListTile and Card
+- [x] Also styled the Text Fields
 
-## Getting Started
+## How To Run
+```
+git clone https://github.com/hirashahid/Flutter-MyCard
+cd Flutter-MyCard
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Author
+You can get in touch with me on my LinkedIn Profile:
 
-A few resources to get you started if this is your first Flutter project:
+#### Hira Shahid
+[![LinkedIn Link](https://img.shields.io/badge/Connect-thehirashahid-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/thehirashahid)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-hirashahid-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/hirashahid)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+## LICENSE
+- MIT (2021)
